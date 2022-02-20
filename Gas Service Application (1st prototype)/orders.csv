@@ -1,6 +1,0 @@
-"orderNo";"status";"user";"address";"orderDetails";"assignedDriver";"orderTotal"
-1;"active";"user1";"123 main st.";"details";1;12.11
-2;"active";"user2";"623 main st.";"details";2;14.45
-3;"completed";"user1";"223 main st.";"details";3;122.32
-4;"active";"user4";"423 main st.";"details";2;162.04
-5;"active";"user5";"323 main st.";"details";1;912.21
