@@ -1,0 +1,61 @@
+body{font-family: Calibri;}
+
+#navTable{
+	border: 1px solid;
+	margin: auto;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	color: #FF5733;
+	border-color:#ff5733;}
+	
+#difficultyTable{
+	border: 1px double;
+	margin: auto;
+	width: 80%;
+	background-color: white;
+	color:black;
+	border-color:black;}
+
+#Home{border: 1px solid #FF5733;}
+#Lessons{border: 1px solid #FF5733;}
+#Tours{border: 1px solid #FF5733;}
+#Staff{border: 1px solid #FF5733;}
+#Survey{border: 1px solid #FF5733;}
+#Home:hover{background-color: blue;}
+#Lessons:hover{background-color: blue;}
+#Tours:hover{background-color: blue;}
+#Staff:hover{background-color: blue;}
+#Survey:hover{background-color: blue;}	
+
+#Difficulty{font-weight: bold;
+text-align: center;}
+#Beginner{text-align: left;}
+#Time{font-weight: bold;
+text-align: center;}
+#Half{text-align: left;
+margin-right: auto;}
+#Physical{font-weight: bold;
+text-align: center;}
+#Mild{text-align: left;}
+
+
+th { border: 1px solid #FF5733;}
+td { border: 1px solid black;}
+
+h1{
+	letter-spacing: 9px;
+	color:#FF5733;
+	font-weight: normal;}
+	
+h2{	
+	color:#FF5733;
+	font-weight: normal;}
+	
+
+
+.wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;}
+
