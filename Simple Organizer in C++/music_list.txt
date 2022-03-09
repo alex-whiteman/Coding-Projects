@@ -1,0 +1,15 @@
+Country:Welcome_to_the_Future:Brad_Paisley
+Country:Convoy:C.W._McCall
+Country:Redneck_Woman:Gretchen_Wilson
+Pop:Rain_On_Me:Lady_Gaga
+Pop:Watermelon_Sugar:Harry_Styles
+Pop:We're_Good:Dua_Lipa
+Rock:Smells_Like_Teen_Spirit:Nirvana
+Rock:You_Shook_Me_All_Night_Long:AC/DC
+Rock:Smoke_on_the_Water:Deep_Purple
+Rap:For_The_Night:Pop_Smoke
+Rap:Laugh_Now_Cry_Later:Drake
+Rap:POPSTAR:DJ_Khaled
+Classical:No._9:Ludwig_van_Beethoven
+Classical:Concentration:Music_for_Reading
+Classical:O_Fortuna:Carl_Orff
