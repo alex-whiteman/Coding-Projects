@@ -4,5 +4,8 @@ information for. When you wish to exit the program, type "EXIT" into the city na
 This program uses the openWeather API to find current weather data for the 
 requested cities.
 
+Upon recieving weather data from the API, the program then takes the necessary information from 
+the JSON file to display weather results.
+
 Sincerely,
 Alex Whiteman
